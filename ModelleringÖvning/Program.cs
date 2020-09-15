@@ -23,6 +23,12 @@ namespace ModelleringÖvning
             you.size = 2;
             you.xpLevel = 34;
 
+            Enemy orc = new Enemy();
+            orc.attack = 10;
+            orc.hp = 50;
+            orc.name = "Thrall";
+
+
 
 
         }

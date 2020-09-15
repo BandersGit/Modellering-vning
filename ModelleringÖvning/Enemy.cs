@@ -8,7 +8,7 @@ namespace ModelleringÖvning
 
         public int hp;
 
-        public int name;
+        public string name;
 
     }
 }
